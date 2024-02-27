@@ -1,15 +1,26 @@
 {
-  "name": "suhu-puh",
-  "version": "1.0.2",
-  "description": "",
-  "main": "index.js",
+  "name": "@thesuhu/colorconsole",
+  "version": "1.0.5",
+  "description": "Make console log more colorful",
+  "main": "colorconsole.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/test.js"
   },
-  "keywords": [],
-  "author": "aditya",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesuhu/colorconsole.git"
+  },
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "thesuhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesuhu/colorconsole/issues"
+  },
+  "homepage": "https://github.com/thesuhu/colorconsole#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "chalk": "^4.1.2"
   }
 }
