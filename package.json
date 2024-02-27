@@ -1,5 +1,5 @@
 {
-  "name": "@thesuhu/colorconsole",
+  "name": "aditya-arga",
   "version": "1.0.5",
   "description": "Make console log more colorful",
   "main": "colorconsole.js",
@@ -14,7 +14,7 @@
     "console",
     "log"
   ],
-  "author": "thesuhu",
+  "author": "aditya-arga",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thesuhu/colorconsole/issues"
