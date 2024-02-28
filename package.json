@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thesuhu/colorconsole.git"
+    "url": "git+https://github.com/Aex5/nano-tea.git"
   },
   "keywords": [
     "console",
@@ -17,9 +17,9 @@
   "author": "aditya-arga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thesuhu/colorconsole/issues"
+    "url": "https://github.com/Aex5/nano-tea.git/issues"
   },
-  "homepage": "https://github.com/thesuhu/colorconsole#readme",
+  "homepage": "https://github.com/Aex5/nano-tea.git#readme",
   "dependencies": {
     "chalk": "^4.1.2"
   }
